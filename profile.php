@@ -1,8 +1,7 @@
 <?php
-//test change filenname = profile.php
-?>
-this is another test
-<?php
+//change 3
+//hover over changes, click the plus button to STAGE
+//click the checkmark to commit
 /* Displays user information and some useful messages */
 session_start();
 require 'db.php';
