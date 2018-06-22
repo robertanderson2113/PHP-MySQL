@@ -1,6 +1,6 @@
 <?php
 /* Displays user information and some useful messages */
-//profile.php
+//profile.php added the name of the file
 session_start();
 require 'db.php';
 // Check if user is logged in using the session variable
