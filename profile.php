@@ -1,6 +1,7 @@
 <?php
 /* Displays user information and some useful messages */
-//profile.php added the name of the file
+//how cool is this (Working Tree) - not sure how I opened it but it lets me track changes side 
+//by side
 session_start();
 require 'db.php';
 // Check if user is logged in using the session variable
