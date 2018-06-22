@@ -1,4 +1,5 @@
 <?php
+//test change filenname = profile.php
 /* Displays user information and some useful messages */
 session_start();
 require 'db.php';
